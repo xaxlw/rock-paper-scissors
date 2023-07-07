@@ -1,0 +1,22 @@
+h1, p {
+    text-align: center;
+}
+
+h1 {
+    margin-top: 25px;
+    margin-bottom: 30px;
+}
+
+button {
+    cursor: pointer;
+    background-color: transparent;
+    border: none;
+    font-size: 70PX;
+}
+
+div {
+    margin: 0 auto;
+    width: fit-content;
+    margin-bottom: 30px;
+
+}
